@@ -1,3 +1,5 @@
+package practice_tasks;
+
 public class ex_07_19th_tasks {
     /*
     Challenge ; ✅ Grade Calculator:
